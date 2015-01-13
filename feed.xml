@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:53A9EA09-5CE9-416F-AE02-687A8605BFF9</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-01-13T14:51:43-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:3F14831F-53C0-4207-B676-40618A7EA061</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">3F14831F-53C0-4207-B676-40618A7EA061</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2015-01-13T14:51:43.001-05:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:108490D3-6272-4069-973D-FC65071C93A0</id>
+  <title>Practice Areas</title>
+  <title xmlns="urn:iweb:">Practice Areas</title>
+  <in-navbar xmlns="urn:iweb:">108490D3-6272-4069-973D-FC65071C93A0</in-navbar>
+  <link rel="alternate" href="Practice_Areas.html"/>
+  <updated>2015-01-13T14:51:43.002-05:00</updated>
+  <content>Practice Areas</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2BF58464-B1F4-4131-B98F-6058814DC2C0</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">2BF58464-B1F4-4131-B98F-6058814DC2C0</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2015-01-13T14:51:43.003-05:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:23289D1A-0217-4E0F-A719-550F50E29C67</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">23289D1A-0217-4E0F-A719-550F50E29C67</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2015-01-13T14:51:43.004-05:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:06FEAD90-E7B9-450D-8912-997424B9F487</id>
+  <title>Location</title>
+  <title xmlns="urn:iweb:">Location</title>
+  <in-navbar xmlns="urn:iweb:">06FEAD90-E7B9-450D-8912-997424B9F487</in-navbar>
+  <link rel="alternate" href="Location.html"/>
+  <updated>2015-01-13T14:51:43.005-05:00</updated>
+  <content>Location</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:94DABED2-BC45-4080-8312-72523D49E587</id>
+  <title>Testimonials</title>
+  <title xmlns="urn:iweb:">Testimonials</title>
+  <in-navbar xmlns="urn:iweb:">94DABED2-BC45-4080-8312-72523D49E587</in-navbar>
+  <link rel="alternate" href="Testimonials.html"/>
+  <updated>2015-01-13T14:51:43.006-05:00</updated>
+  <content>Testimonials</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5BCD7EB0-0A7F-4565-832C-CCEDF3D581AA</id>
+  <title>Publicity</title>
+  <title xmlns="urn:iweb:">Publicity</title>
+  <in-navbar xmlns="urn:iweb:">5BCD7EB0-0A7F-4565-832C-CCEDF3D581AA</in-navbar>
+  <link rel="alternate" href="Publicity.html"/>
+  <updated>2015-01-13T14:51:43.007-05:00</updated>
+  <content>Publicity</content>
+ </entry>
+</feed>
