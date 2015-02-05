@@ -1,8 +1,116 @@
+.paragraph_style {
+    color: rgb(116, 116, 116);
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    font-family: 'Avenir-Black', 'Avenir';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 16px;
+}
+.paragraph_style_1 {
+    color: rgb(116, 116, 116);
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    font-family: 'Avenir-Book', 'Avenir';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+.paragraph_style_2 {
+    color: rgb(114, 114, 114);
+    font-family: 'Avenir-Black', 'Avenir';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(114, 114, 114);
+    font-family: 'Avenir-Book', 'Avenir';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
@@ -98,19 +206,19 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_300_100 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_300_23 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_174_224 {
+.graphic_textbox_layout_style_default_External_300_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_167_224 {
+.graphic_textbox_layout_style_default_External_174_227 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_174_171 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
